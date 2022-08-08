@@ -14,3 +14,27 @@ Vantage helps you build complex queries using Obsidian's native search tools.
 
 #### v1.1.0
 - Added a button to the app ribbon to activate the Vantage modal
+
+<details> 
+  <summary> не нажимай сюда! </summary>
+  <details> 
+    <summary> бля короче </summary>
+      <details> 
+      <summary> один репо </summary>
+        <details> 
+        <summary> ...........   </summary>
+          <details> 
+          <summary> учиться начал раньше меня  </summary>
+  и нихуа....
+           <details> 
+          <summary> это писец товарищи </summary>
+          <details> 
+          <summary> ловите лузера </summary>
+            😶‍🌫️😶‍🌫️😶‍🌫️пока
+  </details>
+  </details>
+   </details>
+    </details>
+    </details>
+    </details>
+    </details>
